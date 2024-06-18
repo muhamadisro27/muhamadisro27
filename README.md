@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhamadisro27
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS,NodeJS
+- 🌱 I’m currently learning Go, NodeJS
 - 📫 How to reach me Instagram @isroo27 & email @mohammadisro2710@gmail.com
 
 <!---
