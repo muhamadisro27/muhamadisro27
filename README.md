@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhamadisro27
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Nextjs, Reactjs
+- 👀 I’m interested in Frontend Develeopment, Web3, Blockchain
+- 🌱 I’m currently learning Sui Blockchain with Move Language
 - 📫 How to reach me Instagram @isroo27 & email mohammadisro2710@gmail.com
 
 <!---
